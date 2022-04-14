@@ -1,0 +1,10 @@
+﻿Build started 4/30/2021 6:04:55 PM.
+     1>Project "C:\Users\gabri\Documents\Visual Studio 2013\Projects\JocCarti\JocCarti\CardGame.vcxproj" on node 2 (Build target(s)).
+     1>Xsd:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\xsd.exe /nologo /language:"cpp" /dataset DataBaseClasamentDataSet.xsd 
+         Writing file 'C:\Users\gabri\Documents\Visual Studio 2013\Projects\JocCarti\JocCarti\DataBaseClasamentDataSet.h'.
+     1>Done Building Project "C:\Users\gabri\Documents\Visual Studio 2013\Projects\JocCarti\JocCarti\CardGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:30.06

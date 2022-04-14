@@ -1,0 +1,22 @@
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\bin\Debug\JocCarti.exe.config
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\bin\Debug\JocCarti.exe
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\bin\Debug\JocCarti.pdb
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.csprojResolveAssemblyReference.cache
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.Properties.Resources.resources
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.csproj.GenerateResource.Cache
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.exe
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.pdb
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.GameScreen.resources
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.StartMenu.resources
+c:\users\gabri\documents\visual studio 2013\Projects\JocCarti\JocCarti\obj\Debug\JocCarti.TabClasament.resources
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\bin\Debug\JocCarti.exe.config
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.exe
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.pdb
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\bin\Debug\JocCarti.exe
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\bin\Debug\JocCarti.pdb
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.GameScreen.resources
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.StartMenu.resources
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.Properties.Resources.resources
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.TabClasament.resources
+C:\Users\gabri\Desktop\JocCartiV\JocCarti\obj\Debug\JocCarti.csproj.GenerateResource.Cache
